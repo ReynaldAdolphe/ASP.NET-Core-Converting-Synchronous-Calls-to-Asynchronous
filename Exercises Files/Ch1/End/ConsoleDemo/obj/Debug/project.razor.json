@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\4Dev\\Ex_Files_ASPNET_Core_Converting\\Exercise Files\\Exercises Files\\Ch1\\End\\ConsoleDemo\\ConsoleDemo.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

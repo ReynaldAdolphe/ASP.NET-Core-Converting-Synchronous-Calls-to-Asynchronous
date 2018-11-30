@@ -1,0 +1,30 @@
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\bin\Debug\ConsoleDemo.exe.config
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\obj\Debug\App.g.cs
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo_MarkupCompile.cache
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo_MarkupCompile.lref
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\obj\Debug\MainWindow.baml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.g.resources
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.Properties.Resources.resources
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.csproj.GenerateResource.cache
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\UsingAsyncExercises\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\bin\Debug\ConsoleDemo.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\obj\Debug\App.g.cs
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo_MarkupCompile.cache
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo_MarkupCompile.lref
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\obj\Debug\MainWindow.baml
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.g.resources
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.Properties.Resources.resources
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.csproj.GenerateResource.cache
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercises Files\Ch1\End\ConsoleDemo\obj\Debug\ConsoleDemo.pdb
